@@ -1,0 +1,16 @@
+20201016 14:59:05 INFO  [main] qa.Game Game.java41 - "Hello Player! Welcome to the adventure\n" +
+                "Follow the guideline to find the treasure in the map.\n" +
+                "Good luck in your quest...!!"
+20201016 14:59:05 INFO  [main] qa.Game Game.java46 - Health:100 Items: []  Money: 1000
+20201016 14:59:05 INFO  [main] qa.Game Game.java47 - Navigate your player as you like
+20201016 14:59:05 INFO  [main] qa.Game Game.java48 - Navigate: 1.East 2.West 3.North 4.South
+20201016 14:59:08 INFO  [main] qa.Game Game.java99 - YOU HAVE FOUND THE HIDDEN TREASURE!!!
+20201016 14:59:08 INFO  [main] qa.Game Game.java100 - ____@_____@____
+20201016 14:59:08 INFO  [main] controller.PlayerController PlayerController.java25 - You are going East
+20201016 14:59:08 INFO  [main] qa.Game Game.java112 - you are facing wild animal on your path
+20201016 14:59:08 INFO  [main] qa.Game Game.java115 - Decide now  1.Fight  2.Flee
+20201016 14:59:10 INFO  [main] qa.Game Game.java127 - you are running away
+20201016 14:59:10 INFO  [main] qa.Game Game.java72 - Your location in the map {radius=100, east='95', west='105', north='100', south='100'}
+20201016 14:59:10 INFO  [main] qa.Game Game.java46 - Health:100 Items: []  Money: 1000
+20201016 14:59:10 INFO  [main] qa.Game Game.java47 - Navigate your player as you like
+20201016 14:59:10 INFO  [main] qa.Game Game.java48 - Navigate: 1.East 2.West 3.North 4.South
